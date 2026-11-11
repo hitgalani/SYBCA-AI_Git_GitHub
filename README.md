@@ -41,7 +41,7 @@ Learning Git & GitHub fundamentals through hands-on practice, including commits,
 
 ## 🧪 My Practice Work
 
-- **Practice repository:** [git_github_practice_mix](https://github.com/hitgalani/git_github_practice_mix), where I practise commits, branches, merging and collaboration.
+- **Practice repository:** [Learning Lab](https://github.com/hitgalani/Learning-Lab), where I practise commits, branches, merging and collaboration.
 - **This fork:** where I practise the fork → commit → pull request workflow.
 
 ### Skills I am practising
